@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/3_kurs/3_kurs.iml" filepath="$PROJECT_DIR$/3_kurs/3_kurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Alexia Trash/Alexia Trash.iml" filepath="$PROJECT_DIR$/2 kurs/Alexia Trash/Alexia Trash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Classroom/Classroom.iml" filepath="$PROJECT_DIR$/2 kurs/Classroom/Classroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code_Projects.iml" filepath="$PROJECT_DIR$/.idea/Code_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Homework - If-Else,Switch/Homework - If-Else,Switch.iml" filepath="$PROJECT_DIR$/2 kurs/Homework - If-Else,Switch/Homework - If-Else,Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Lili/Lili.iml" filepath="$PROJECT_DIR$/2 kurs/Lili/Lili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/My First Ever Project/My First Ever Project.iml" filepath="$PROJECT_DIR$/2 kurs/My First Ever Project/My First Ever Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Ocenka/Ocenka.iml" filepath="$PROJECT_DIR$/2 kurs/Ocenka/Ocenka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/Profile/Profile.iml" filepath="$PROJECT_DIR$/2 kurs/Profile/Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 kurs/TrapezoidArea/TrapezoidArea.iml" filepath="$PROJECT_DIR$/2 kurs/TrapezoidArea/TrapezoidArea.iml" />
+    </modules>
+  </component>
+</project>
